@@ -1,24 +1,17 @@
-<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <g clip-path="url(#clip0_rocket_template)">
-    <rect width="48" height="48" rx="5" fill="#6C3BFF"/>
-    
-    <!-- Rocket body -->
-    <path d="M24 10C20.5 14 19 18.5 19 23V30H29V23C29 18.5 27.5 14 24 10Z" fill="white"/>
-    
-    <!-- Window -->
-    <circle cx="24" cy="21" r="2.5" fill="#6C3BFF"/>
-    
-    <!-- Fins -->
-    <path d="M19 24L15 28V30H19V24Z" fill="white"/>
-    <path d="M29 24L33 28V30H29V24Z" fill="white"/>
-    
-    <!-- Flame -->
-    <path d="M22 30C22 33 23 35 24 37C25 35 26 33 26 30H22Z" fill="white"/>
-    
-  </g>
-  <defs>
-    <clipPath id="clip0_rocket_template">
-      <rect width="48" height="48" fill="white"/>
-    </clipPath>
-  </defs>
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_216_39)">
+<rect width="26" height="26" rx="5" fill="#353F9A"/>
+<g clip-path="url(#clip1_216_39)">
+<path d="M22.1668 8.83337L16.3335 13L22.1668 17.1667V8.83337Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.6668 7.16663H5.50016C4.57969 7.16663 3.8335 7.91282 3.8335 8.83329V17.1666C3.8335 18.0871 4.57969 18.8333 5.50016 18.8333H14.6668C15.5873 18.8333 16.3335 18.0871 16.3335 17.1666V8.83329C16.3335 7.91282 15.5873 7.16663 14.6668 7.16663Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_216_39">
+<rect width="26" height="26" fill="white"/>
+</clipPath>
+<clipPath id="clip1_216_39">
+<rect width="20" height="20" fill="white" transform="translate(3 3)"/>
+</clipPath>
+</defs>
 </svg>
