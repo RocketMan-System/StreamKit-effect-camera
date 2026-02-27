@@ -4,6 +4,11 @@
         "ru": "Видеосъемка",
         "ua": "Відеозйомка"
     },
+    "description": {
+        "en": "Streamer forgot to turn on the video footage of the scene again? Not a problem! We'll help! 😎",
+        "ru": "Стример опять забыл включить видеосъемку с места событий? Не беда! Поможем! 😎",
+        "ua": "Стример знову забув увімкнути відеозйомку з місця подій? Не біда! Допоможемо! 😎"
+    },
     "author": "RocketMan",
     "version": "1.0.0",
     "type": "effect",
